@@ -1,2 +1,1 @@
-This is a file
-Don't do this.
+This is a file.
